@@ -13,7 +13,7 @@
 #include "FGDataModel.generated.h"
 
 USTRUCT()
-struct FFGMoverInputCmd : public FCharacterDefaultInputs
+struct FGMOVEMENT_API FFGMoverInputCmd : public FCharacterDefaultInputs
 {
 	GENERATED_BODY()
 
